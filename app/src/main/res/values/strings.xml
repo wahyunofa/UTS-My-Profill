@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Profil</string>
+    <string name="nama">Wahyu Nofa Setiawan</string>
+    <string name="mahasiswa">Mahasiswa Informatika UPGRIS</string>
+    <string name="detail">Detail</string>
+    <string name="tentang">\nWahyu Nofa Setiawan merupakan mahasiswa Universitas PGRI Semarang Program Studi Informatika
+        Fakultas Teknik dan Informatika. \n\n
+    </string>
+    <string name="almt">Alamat</string>
+    <string name="alamat">Dk. Kemadang Ds. Keteleng RT/RW 08/02 Kec. Blado Kab. Batang Jawa Tengah Indonesia</string>
+    <string name="tmpt">Tempat</string>
+    <string name="tempat">Batang</string>
+    <string name="tl">Tanggal Lahir</string>
+    <string name="t_lahir">14 November</string>
+    <string name="dibuat">Tugas Ini Dibuat Oleh</string>
+    <string name="pembuat">Nama : Wahyu Nofa Setiawan\nNPM     : 17670039</string>
+    <string name="uts">UTS</string>
+    <string name="phone">08159347735</string>
+    <string name="kontak">Contact</string>
+    <string name="project">Project</string>
+    <string name="uts_konten">Ini adalah project Ulangan Tengah Semester (UTS) Mobile Programming</string>
+    <string name="foto">1 Foto</string>
+
+</resources>
